@@ -1,6 +1,23 @@
-. {
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-  font-family:arial,sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
 }
+
+body {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+header {
+  background-color: #056db3;
+  color: white;
+  text-align: center;
+  padding: 30px 0;
+}
+
+nav{
+  background-color:#343a40;
+}
+
